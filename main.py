@@ -7,7 +7,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes, CommandHandler
 
 # --- ضعي التوكن الخاص بكِ هنا ---
-TOKEN = 'ضعي_هنا_توكن_بوتك'
+TOKEN = '8355856932:AAG47FU2fp5v8iak4j0oaLBRhnzU813RLA8'
 
 seen_messages = {}
 enabled_chats = set()
